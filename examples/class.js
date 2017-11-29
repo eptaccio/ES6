@@ -7,3 +7,7 @@ class Car {
     return this.color
   }
 }
+
+const car = new Car('red')
+
+console.log(car.getColor())
