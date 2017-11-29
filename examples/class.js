@@ -10,4 +10,4 @@ class Car {
 
 const car = new Car('red')
 
-console.log(car.getColor())
+console.log(car.getColor()) // red
